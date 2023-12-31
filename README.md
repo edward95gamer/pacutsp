@@ -1,6 +1,7 @@
 # pacuscat os (the code is from notaperson535)
 
 [This website is hosted here](https://pacutsp.vercel.app)
+[and here]([https://edward95gamer.github.io/pacutsp)
 
 If you would like to learn how to create this, [click here](https://notaperson535.github.io/Win11-HTML-Tutorial/)
 
